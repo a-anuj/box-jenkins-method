@@ -12,7 +12,7 @@ The workflow follows the Box–Jenkins steps:
 1. Identification  
 2. Estimation  
 3. Diagnostic checking  
-4. Forecasting (optional)
+4. Forecasting
 
 
 ## 2. Methodology (Box–Jenkins Steps)
